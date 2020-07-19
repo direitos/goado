@@ -160,8 +160,7 @@ layout: default
             {% for treatment in site.data.treatments %}
                 <div class="col-sm-6 col-md-4">
                     <div class="icon-box">
-                        <i class="fa fa-{{ treatment.icon }}" aria-hidden="true"></i>
-                   <!--     <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg> -->
+                        <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
                         <h4>{{ treatment.title }}</h4>
                         
                         <ul>
