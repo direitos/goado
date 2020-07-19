@@ -27,25 +27,25 @@ saturday: encerrado
 sunday: encerrado
 
 # Testimonials
-#testimonials:
-#    testimonials_img: parallax.jpg
+testimonials:
+    testimonials_img: parallax.jpg
 
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Viana do Castelo, Portugal
     address_details: svg/min/logo.svg
 
 # Social settings
 facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
+#feed: yes
 
 # Footer
-copyright: © 2020 GAODO - All rights reserved
+copyright: © 2020 GADO - Todos os direitos reservados
 
 # Build settings
 markdown: kramdown
