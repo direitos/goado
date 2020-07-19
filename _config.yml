@@ -7,9 +7,9 @@ logo_url: svg/min/logo.svg
 
  # Hero
 hero: 
-    hero_img: logo.png
+    hero_img: hero2.jpg
     hero_title: GAODO
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_description: Gabinete de apoio ao doente oncológico
 
 # Contact form
 api_token: # Enter API token here
