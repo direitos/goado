@@ -5,11 +5,11 @@
 - icon: icon-diamond
   title: Mediação de seguros
   description: >
-  Ativação de seguros de vida
-  --\n
-  Medidas de estímulo ao emprego
-  --\n
-  Proteção especial na invalidez PSI (Prestação social para a inclusão)
+  .Ativação de seguros de vida
+  .\n
+  .Medidas de estímulo ao emprego
+  .\n
+  .Proteção especial na invalidez PSI (Prestação social para a inclusão)
 
 - icon: icon-flask
   title: Isenção de impostos
@@ -18,11 +18,11 @@
 - icon: icon-globe
   title: Créditos
   description: >
-  Benefícios no Crédito de Habitação
-  --\n
-  Benefícios ao nível do arrendamento
-  --\n
-  Benefícios nas contas poupança-reforma
+  .Benefícios no Crédito de Habitação
+  .\n
+  .Benefícios ao nível do arrendamento
+  .\n
+  .Benefícios nas contas poupança-reforma
 
 - icon: icon-ambulance
   title: Chamadas de emergência
@@ -31,8 +31,8 @@
 - icon: icon-bed
   title: Hospitalização
   description: >
-  Isenção das taxas moderadoras
-  --\n
-  Comparticipação na medicação oncológica não fornecida pelo hospital
-  --\n
-  Comparticipação das despesas com próteses ou outros produtos de apoio
+  .Isenção das taxas moderadoras
+  .\n
+  .Comparticipação na medicação oncológica não fornecida pelo hospital
+  .\n
+  .Comparticipação das despesas com próteses ou outros produtos de apoio
