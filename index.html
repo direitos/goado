@@ -163,11 +163,11 @@ layout: default
                         <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
                         <h4>{{ treatment.title }}</h4>
                         
-                        <dd>
+                        <ul>
                           {% for item in treatment.description %}
                             <li>{{ item }}</li>
                           {% endfor %}
-                        </dd>
+                        </ul>
 
                         <!--<p>{{ treatment.description }}</p> -->
                     </div>
