@@ -4,7 +4,8 @@
 
 - icon: icon-diamond
   title: Mediação de seguros
-  description: Ativação de seguros de vida
+  description: >
+  Ativação de seguros de vida
   --\n
   Medidas de estímulo ao emprego
   --\n
@@ -16,7 +17,8 @@
 
 - icon: icon-globe
   title: Créditos
-  description: Benefícios no Crédito de Habitação
+  description: >
+  Benefícios no Crédito de Habitação
   --\n
   Benefícios ao nível do arrendamento
   --\n
@@ -28,7 +30,8 @@
 
 - icon: icon-bed
   title: Hospitalização
-  description: Isenção das taxas moderadoras
+  description: >
+  Isenção das taxas moderadoras
   --\n
   Comparticipação na medicação oncológica não fornecida pelo hospital
   --\n
