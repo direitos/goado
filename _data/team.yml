@@ -1,34 +1,29 @@
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Portal BEM-ME-KER - IPO Porto
+  image: ipo_porto.jpg
+  url: http://www.ipoporto.pt/eu-doente/quiosques-eletronicos-bem-me-quer/
+  phone: 225 084 000
 
-- name: Troy Barnes 
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Pedidos de relatórios médicos à ULSAM – Viana do Castelo 
+  image: ulsam_logo.jpg
+  url: http://www.ulsam.min-saude.pt/cidadao/acesso-a-informacao-clinica/
+  phone: 258 802 100
 
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Pedido de prestação social para inclusão
+  image: seg_social_inclusao.jpg
+  url: http://www.seg-social.pt/documents/10152/15387260/PSI_1_DGSS/baa67447-a820-4a15-a494-3fc2c77d1e76
+  phone: 300 502 502
 
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Averbamento nas finanças do atestado médico de incapacidades multiuso
+  image: logo-at.png
+  url: https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/Pages/faqs-00304.aspx
+  phone: 217 206 707
 
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Pedidos de arrendamento apoiado
+  image: portal_habit.jpg
+  url: https://www.portaldahabitacao.pt/web/guest/arrendamento-apoiado
+  phone: 217 231 500
 
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Covid-19 | Doentes oncológicos
+  image: onco.jpg
+  url: https://www.sns.gov.pt/noticias/2020/04/03/covid-19-doentes-oncologicos/
+  phone: 808 242 424
