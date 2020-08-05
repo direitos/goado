@@ -45,7 +45,7 @@ map:
 #feed: yes
 
 # Footer
-copyright: © 2020 GOADO - Todos os direitos reservados
+copyright: © 2020 GOADO
 
 # Build settings
 markdown: kramdown
