@@ -222,24 +222,28 @@ layout: default
 <!-- End Testimonials --> 
 
 <!-- Start Gallery -->
-<div id="gallery" class="gallery">
-        
-    <h2 class="section-title">Eventos</h2>
-
+<div id="gallery" class="gallery">        
+    <h2 class="section-title">Links úteis</h2>
     {% for images in site.data.gallery %}
        <!-- <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link"> -->
-        <a href="{{ images.url }}" target="_blank" data-toggle="tooltip" data-placement="bottom" title="{{ images.image_alt }}" class="gallery-item expandable-box">
-            <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
+        <div class="gallery-item">
+            <div class="expandable-box">  
+                <div class="expandable-box-top">
+                    <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
+                    <h4>{{ images.image_alt }}</h4>
+                </div>
+                <div class="expandable-box-bottom">
+                    <a href="{{ images.url }}" target="_blank" data-toggle="tooltip" data-placement="bottom" title="{{ images.link }}"><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></a>
+                    </a>
+                    <a href="tel:{{ images.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ images.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
+                    </a>
+                </div> 
             </div>
-            <div class="expandable-box-bottom">                             
-                <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span> 
-            </div> 
-        </a>
+        </div>
     {% endfor %}
 
 </div>
-<!-- End Gallery --> 
+<!-- End Gallery -->
 <!-- Start Map -->
 <!-- <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div> -->
 <!-- End Map -->
